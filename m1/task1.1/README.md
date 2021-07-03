@@ -1,4 +1,4 @@
-# Hello everynone! #<br/>
+# Hello everynone!<br/>
 
 #### Firs of all, few words about who is DevOps ingeneer and waht is his main responsibilities.
 
