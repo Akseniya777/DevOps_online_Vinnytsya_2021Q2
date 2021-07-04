@@ -1,0 +1,19 @@
+48b4459 HEAD@{0}: merge develop: Fast-forward
+a89bbbd HEAD@{1}: checkout: moving from develop to main
+48b4459 HEAD@{2}: commit: Merge1
+c0f7566 HEAD@{3}: commit (merge): Merge
+03c3963 HEAD@{4}: reset: moving to HEAD
+03c3963 HEAD@{5}: reset: moving to HEAD
+03c3963 HEAD@{6}: merge images: Fast-forward
+210bf90 HEAD@{7}: checkout: moving from styles to develop
+a31ad99 HEAD@{8}: commit: Version1.5
+ee61605 HEAD@{9}: commit: Version1.4
+210bf90 HEAD@{10}: checkout: moving from develop to styles
+210bf90 HEAD@{11}: checkout: moving from images to develop
+03c3963 HEAD@{12}: commit: Version1.3
+aca9bd3 HEAD@{13}: commit: Version1.2
+210bf90 HEAD@{14}: checkout: moving from develop to images
+210bf90 HEAD@{15}: commit: Version1.1
+a89bbbd HEAD@{16}: checkout: moving from main to develop
+a89bbbd HEAD@{17}: commit: Version1
+44f5413 HEAD@{18}: clone: from https://github.com/Akseniya777/DevOps_online_Vinnytsya_2021Q2.git
