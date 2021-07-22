@@ -24,4 +24,9 @@
 ![stack Overflow](https://image.prntscr.com/image/7CtDIEHJTpepF_fE5HIuvA.png)
 ![stack Overflow](https://image.prntscr.com/image/lf68NqGPTU_u0YofwLvlGQ.png)
 
+* and finnaly I've assmbled the project with 2 sub networks connectec to each other with Switch, and connected them using Router-PT with few ports:
+![stack Overflow](https://image.prntscr.com/image/PAd-wqz7QP6ZY5H0UpbqaQ.png)
+![stack Overflow](https://image.prntscr.com/image/JazGDsLHT2GI0HT7rgfwHQ.png)
+![stack Overflow](https://image.prntscr.com/image/nlBxPT0JRnmGI-RfVvTXVA.png)
+
 ### Thank you for attention!
