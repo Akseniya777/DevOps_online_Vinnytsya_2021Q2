@@ -2,7 +2,7 @@
 
 ### Hello. In this report, I want to present the sequence of actions that I followed to complete task 6.2 of the Linux Networking module, as well as the new technologies that I mastered in the process of implementation:
 
-1) To perform task 2.6 of the modules 6, I’ve created 3 virtual machines: VM1 with enabled NAT and internal interface, VM2 and VM3 with internal only interfaces:
+1) To perform task 6.2 of the modules 6, I’ve created 3 virtual machines: VM1 with enabled NAT and internal interface, VM2 and VM3 with internal only interfaces:
 ![stack Overflow](https://image.prntscr.com/image/t0SmknQiQkWu7SnQrdPrJg.png)
 ![stack Overflow](https://image.prntscr.com/image/jPSRGSIjTdqhCQrSch9AaQ.png)
 ![stack Overflow](https://image.prntscr.com/image/Nz2Sc_dST16Tf0Z0ZqBFYQ.png)
